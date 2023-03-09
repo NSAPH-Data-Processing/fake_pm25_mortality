@@ -5,7 +5,7 @@ Generator of a fake dataset (noise) that replicates the columns structure of the
 ## Description
 
     * Size 1/100 of original dataset
-    * Independent uniform samples for each columns (from first 1e6 rows of original dataset)
+    * Independent column samples
 
 ## Pipeline
 
